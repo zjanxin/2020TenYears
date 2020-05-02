@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Introduction
+Hello everyone. There is my favorate words:
+> 《球状闪电》-刘慈欣
+> 爸爸又干了几杯酒，然后转向我，“其实，儿子，过一个美妙的人生并不难，听爸爸教你：你选一个公认的世界难题，最好是只用一张纸和一支笔的数学难题，比如哥德巴赫猜想或费尔马大定理什么的，或连纸笔都不要的纯自然哲学难题，比如宇宙的本源之类，投入全部身心钻研，只问耕耘不问收获，不知不觉的专注中，一辈子也就过去了。人们常说的寄托，也就是这么回事。或是相反，把挣钱作为唯一的目标，所有的时间都想着怎么挣，也不问挣来干什么用，到死的时候像葛朗台一样抱着一堆金币说：啊真暖和啊。。。。。。所以，美妙人生的关键在于你能迷上什么东西。比如我——”爸爸指指房间里到处摆放着的那些小幅水彩画，它们的技法都很传统，画得中规中矩，从中看不出什么灵气来。这些画映着窗外的电光。像一群闪动的屏幕，“我迷上了画画，虽然知道自己成不了梵高。”
 
-You can use the [editor on GitHub](https://github.com/zjanxin/2020TenYears/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is just for record myslfe, to record my next 10 years life. 
+I don't know what will be, who will meet, who am I. Just record.
+Thanks.
+20200502
+Zjanxin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjanxin/2020TenYears/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Catalog
+## What I see
