@@ -11,5 +11,5 @@ Zjanxin
 
 # Catalog
 ## What I see
-* [2020 News](https://zjanxin.github.io/2020_news.md)
-* [可转债投资](https://zjanxin.github.io/investment_可转债.md)
+* [2020 News](https://zjanxin.github.io/2020_news)
+* [可转债投资](https://zjanxin.github.io/investment_可转债)
