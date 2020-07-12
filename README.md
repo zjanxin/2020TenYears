@@ -17,3 +17,4 @@ Zjanxin
 
 ## Who am I
 * [AWS/WhitePage/Best_Practices_Design_Patterns_Optimizing_Amazon_S3_Performance](https://zjanxin.github.io/aws/white_page/Best_Practices_Design_Patterns_Optimizing_Amazon_S3_Performance)
+* [AWS/20200614_AWS_SAA](https://zjanxin.github.io/aws/20200614_AWS_SAA)
